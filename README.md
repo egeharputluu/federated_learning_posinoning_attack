@@ -33,7 +33,7 @@ The project shows how **one compromised client** can reduce the overall federate
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/yourusername/federated-poisoning-sim.git
+git clone https://github.com/egeharputluu/federated_learning_posinoning_attack
 cd federated-poisoning-sim
 
 pip install -r requirements.txt
